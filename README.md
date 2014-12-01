@@ -2,7 +2,7 @@
 
 This is a simple HTML5 Yule log fireplace page for your festive pleasure. This was whipped up for my girlfriend because she is pretty into the yule log while studying. This app was developed for Chrome OS and the Chrome browswer.
 
-* Source: [https://github.com/CMDann/YuleLog](https://github.com/CMDann/YuleLog)
+* Source: [https://github.com/CMDann/YuleLog](https://github.com/CMDann/YuleLog-Chrome-App)
 * Homepage: [http://cmdann.ca](http://cmdann.ca)
 * Twitter: [@CMDannCA](http://twitter.com/CMDannCA)
 
@@ -12,7 +12,7 @@ This is a simple HTML5 Yule log fireplace page for your festive pleasure. This w
 Choose one of the following options:
 
 1. Download the latest stable release from
-   [GitHub](https://github.com/CMDann/YuleLog/archive/master.zip)
+   [GitHub](https://github.com/CMDann/YuleLog-Chrome-App/archive/master.zip)
 2. Clone the git repo — `git clone
-   https://github.com/CMDann/YuleLog.git` - and checkout the tagged
+   https://github.com/CMDann/YuleLog-Chrome-App.git` - and checkout the tagged
    release you'd like to use.
